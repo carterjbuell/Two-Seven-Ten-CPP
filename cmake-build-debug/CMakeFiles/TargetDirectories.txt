@@ -1,0 +1,3 @@
+C:/Users/carte/CLionProjects/twoseventen/cmake-build-debug/CMakeFiles/twoseventen.dir
+C:/Users/carte/CLionProjects/twoseventen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carte/CLionProjects/twoseventen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
